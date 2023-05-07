@@ -11,6 +11,8 @@ looked up.
 
 See: [typo3/testing-framework repository](https://github.com/typo3/testing-framework)
 
+Similar test extension for TF8 (TYPO3 v12/v13) see: (sbuerk/t8-test-extension)[https://github.com/sbuerk/tf8-test-extension]
+
 ## Maintainer
 
 * Stefan Bürk: stefan@buerk.tech
