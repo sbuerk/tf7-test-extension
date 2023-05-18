@@ -6,8 +6,8 @@ namespace SBUERK\TF7TestExtension;
 
 final class SimpleService
 {
-    public function text(): string
+    public function text(int $number): string
     {
-        return 'simpleservice::text()';
+        return sprintf('simpleservice::text(%s)', $number);
     }
 }
